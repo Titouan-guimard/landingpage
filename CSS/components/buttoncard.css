@@ -1,0 +1,11 @@
+.btn-card {
+background-color: red;
+color: white;
+padding: 5px 10px;
+border-radius: 20px;
+}
+
+.btn-card:hover {
+	color: white;
+	background-color: black;
+}
